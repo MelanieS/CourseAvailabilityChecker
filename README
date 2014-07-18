@@ -1,0 +1,8 @@
+Purdue North Central does not have a wait list, so if a course is full students must
+repeatedly check to see if another student has dropped the course.
+
+This script automatically checks for course availability and texts the student when
+there is an available seat.
+
+Demo available here:
+https://www.youtube.com/watch?v=NEiKMqtE9gU
