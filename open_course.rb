@@ -7,7 +7,7 @@ availability = 0
 
 puts "Enter the CRN for the PNC course you would like to track:"
 crn = gets.chomp.to_s
-url = "https://fusion-ssbprod.pnc.edu:8910/dbServer_prod/bwckschd.p_disp_detail_sched?term_in=201510&crn_in=#{crn}"
+url = "https://ssb-prod.pnw.edu/dbServer_prod/bwckschd.p_disp_detail_sched?term_in=201710&crn_in=#{crn}"
 
 while availability == 0
     sleep 10
